@@ -1,1 +1,1 @@
-Here is the collection of Power BI projects
+Here is the collection of different Power BI projects
